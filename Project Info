@@ -1,28 +1,4 @@
-## Champion(s)
 
-In Shenzhen
-
-Quan Xiong (xiong.quan@zte.com.cn)
-
-Daniel King (d.king@lancaster.ac.uk)
-
-Remote participation
-
-Tim Chown (tim.chown@jisc.ac.uk)
-
- 
-
-## Specifications
-
-- Framework for High Performance Wide Area Network (HP-WAN)
-
-https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
-
-- Current State of the Art for High Performance Wide Area Networks
-
-https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
-
- 
 
 ## Project Info
 
@@ -35,14 +11,3 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 4. Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
 
 5. Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
-
- 
-
-## Source Code
-
-To be added into github.
-
- 
-External Reference
-
-To be added into github.
