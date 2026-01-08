@@ -46,8 +46,3 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 ## Source Code
 
 To be added into github.
-
- 
-External Reference
-
-To be added into github.
