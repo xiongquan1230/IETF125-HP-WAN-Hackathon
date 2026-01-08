@@ -2,7 +2,7 @@
 Data-intensive applications always demand high-speed data transmission over WANs such as scientific research, academia, education and so on. High-performance WAN (HP-WAN) is 
 designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for
 the high-speed and high-throughput data transmission, coupled with fast completion time. We're planning to have a HP-WAN Hackathon at IETF 125 to discuss about the HP-WAN developments
-and implementation such as open-source and simulater work.
+and implementation such as open-source and simulation work.
 
 ## Champion(s)
 
