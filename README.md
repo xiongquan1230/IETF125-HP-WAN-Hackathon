@@ -12,36 +12,34 @@ Quan Xiong (xiong.quan@zte.com.cn)
 
 Daniel King (d.king@lancaster.ac.uk)
 
-Remote participation
+Kehan Yao (yaokehan@chinamobile.com)
 
-Tim Chown (tim.chown@jisc.ac.uk)
+Junfeng Zhao (zhaojunfeng@caict.ac.cn)
 
 
 ## Specifications
 
-- Framework for High Performance Wide Area Network (HP-WAN)
+https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 
 https://datatracker.ietf.org/doc/draft-xhy-hpwan-framework/
 
-- Current State of the Art for High Performance Wide Area Networks
+https://datatracker.ietf.org/doc/draft-xiong-hpwan-signaling-solution/
 
-https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
+https://datatracker.ietf.org/doc/draft-yx-hpwan-uc-requirements-public-operator/
 
+https://datatracker.ietf.org/doc/draft-zhao-hpwan-scenarios-deployment/
  
 
 ## Project Info
 
-1. HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework
+1,Learn about HPWAN developments in R&E networks and open-source controllers and orchestrators for integrated HPWAN connection performance monitoring (IETF RestConf/NetConf/YANG).
 
-2. Learn about HPWAN developments and open-source controllers and orchestrators for integrated HPWAN connection management (IETF RestConf/NetConf/YANG)
+2,HPWAN integration and simulation on topologies for public networks and service scenarios based on the HP-WAN framework and related functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signaling (IETF RSVP-TE). 
 
-3. Integration and simulation of the HP-WAN functions, such as the rate negotiation, admission control, traffic scheduling, and resource reservations with distributed signalling  (IETF RSVP-TE)
+3,Implement the system optimizations (e.g., QUIC-based) and protocol modifications for the traffic transmission. 
 
-4. Perform the CC algorithms optimizations (e.g. DCQCN algorithm) to simulate the traffic transmission with negotiated rates and compare with the HPWAN approach
+4,Test and evaluate the performance (e.g.,throughput, delay, and packet loss) using RDMA, TCP, and UDP over the existing public network.
 
-5. Work on improvements to IETF protocols and models for cooperation between HPWAN domains.
-
- 
 
 ## Source Code
 
