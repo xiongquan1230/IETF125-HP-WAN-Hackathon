@@ -29,7 +29,7 @@ This plan maps each needed capability to:
   - Inter-domain signaling and policy translation
   - End-to-end observability and SLA accountability
 
-## Capability Required baswed on Function
+## Capability Required based on Function
 
 ### A. Signaling and Control Plane (Short-term)
 - Objectives:
