@@ -1,7 +1,10 @@
-# Project Objectives
+## Background
+High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, low-latency, and high-capacity needs of data-intensive applications and enable the host-and-network collaboration for the high-speed and high-throughput data transmission, coupled with fast completion time.
 
-## Vision
-- 
+# Project Objectives
+- Check HPWAN state of art for different transport domain technologies.
+- Discuss requirements for HPWAN service requests.
+- Indentify methods for end-to-end HPWAN service monitoring and which IETF performance monitoring and tooling is suitable.
 
 ## Primary Objectives
 - [ ] Discuss HPWAN deployment on topologies for public networks and service scenarios based on the HP-WAN framework.
