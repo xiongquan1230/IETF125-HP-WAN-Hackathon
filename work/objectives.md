@@ -3,6 +3,7 @@ High-performance WAN (HP-WAN) is designed specifically to meet the high-speed, l
 
 # Project Objectives
 - Check HPWAN state of art for different transport domain technologies.
+- Evaluate performance of HPWAN services across legacy and new HPWAN transport domains.
 - Discuss requirements for HPWAN service requests, this includes scheduling and path performance parameters required for HPWAN services.
 - Indentify methods for end-to-end HPWAN service monitoring and which IETF performance monitoring and tooling is suitable.
 
