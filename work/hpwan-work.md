@@ -45,15 +45,15 @@ This plan maps each needed capability to:
 
 ### B. Data Models and APIs (Short-term)
 - Objectives:
-  - HPWAN service intent YANG model
-  - QoS/admission/rate policy YANG model
-  - Telemetry and KPI YANG model
+  - HPWAN service intent  model
+  - QoS/admission/rate policy model
+  - Telemetry and KPI model
 - Relevent drafts:
   - draft-yx-hpwan-uc-requirements-public-operator-00
   - draft-xhy-hpwan-framework-03
   - draft-kcrh-hpwan-state-of-art-03
 - Main gaps:
-  - Concrete model definitions and protocol bindings (RESTCONF/NETCONF)
+  - Concrete model definitions and model/protocol bindings 
 
 ### C. Operations, Measurement, and Assurance (Medium-term)
 - Objectives:
